@@ -20,4 +20,8 @@ Abstract:
 
 You kinda need Org-mode for this. 
 
-Load up the `paper.org` file in Emacs and export it as pdf
+Load up the `paper.org` file in Emacs and export it as pdf. 
+
+## Why did you put this on Github? 
+
+dude my Syncthing volume is full lol gotta back this up somehow 
